@@ -18,4 +18,8 @@ public class Calculator {
 		 return a/b;
 		 
 	 }
+	public static void main(String args[]){
+Calculator c=new caalculator();
+		c.add(10,20);
+	}
 }
